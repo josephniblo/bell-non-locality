@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 numpy = "*"
 qutip = "*"
+matplotlib = "*"
 
 [dev-packages]
 ipykernel = "*"

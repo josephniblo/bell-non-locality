@@ -8,6 +8,7 @@ numpy = "*"
 qutip = "*"
 matplotlib = "*"
 pandas = "*"
+scipy = "*"
 
 [dev-packages]
 ipykernel = "*"
